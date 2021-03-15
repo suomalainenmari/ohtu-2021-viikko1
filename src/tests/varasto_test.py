@@ -1,6 +1,6 @@
 import unittest
 from varasto import Varasto
-
+#Muutos osan 11 tehtävää varten
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
